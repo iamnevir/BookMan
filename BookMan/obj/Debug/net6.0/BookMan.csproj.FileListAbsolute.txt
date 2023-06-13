@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\BookMan\BookMan\bin\Debug\net6.0\BookMan.exe
+C:\Users\ASUS\source\repos\BookMan\BookMan\bin\Debug\net6.0\BookMan.deps.json
+C:\Users\ASUS\source\repos\BookMan\BookMan\bin\Debug\net6.0\BookMan.runtimeconfig.json
+C:\Users\ASUS\source\repos\BookMan\BookMan\bin\Debug\net6.0\BookMan.dll
+C:\Users\ASUS\source\repos\BookMan\BookMan\bin\Debug\net6.0\BookMan.pdb
+C:\Users\ASUS\source\repos\BookMan\BookMan\obj\Debug\net6.0\BookMan.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BookMan\BookMan\obj\Debug\net6.0\BookMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BookMan\BookMan\obj\Debug\net6.0\BookMan.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BookMan\BookMan\obj\Debug\net6.0\BookMan.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BookMan\BookMan\obj\Debug\net6.0\BookMan.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BookMan\BookMan\obj\Debug\net6.0\BookMan.dll
+C:\Users\ASUS\source\repos\BookMan\BookMan\obj\Debug\net6.0\refint\BookMan.dll
+C:\Users\ASUS\source\repos\BookMan\BookMan\obj\Debug\net6.0\BookMan.pdb
+C:\Users\ASUS\source\repos\BookMan\BookMan\obj\Debug\net6.0\BookMan.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\BookMan\BookMan\obj\Debug\net6.0\ref\BookMan.dll
+C:\Users\ASUS\source\repos\BookMan\BookMan\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\BookMan\BookMan\obj\Debug\net6.0\BookMan.csproj.CopyComplete

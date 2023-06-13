@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SRRzGWnP66ZVXUuyqlAlsI+mI3BMj4cdO3Ig955XU3Qs/SLu+2YFeFnHfnqPE91bR9NmjR9TY1/cRxy7a7/DjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\BookMan\\BookMan\\BookMan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
